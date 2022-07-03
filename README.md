@@ -1,3 +1,3 @@
 # WikipediaKeeper
-Wikipediaの左右の余白消すやつ
+Wikipediaの左右の余白消すChrome Extension  
 バグっても知らん
